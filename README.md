@@ -27,4 +27,4 @@ Install PyTorch first with a compatible CUDA 12.8 build.
 Then install the wheel:
 
 ```bash
-pip install flash_attn_turing-0.0.0-cp313-torch211-cu128-sm75-t4-linux_x86_64.whl --no-deps
+pip install https://raw.githubusercontent.com/prateekgoyal261/flash-attention-wheels/main/flash_attn_turing-0.0.0-cp313-cp313-linux_x86_64.whl --no-deps
